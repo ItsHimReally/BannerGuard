@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img alt="codd logo" src="https://transport.mos.ru/common/upload/img/resize/sc_1063x583_images52_6fc49e79bbf9fedb892b6831b3c269cf.png">
+    <img alt="codd logo" src="https://tipworker.com/img/cache/company/logo/114403/114403-middle.png">
 </p>
 
 <h3 align="center">
@@ -22,5 +22,5 @@
 ---------------------------------------
 Пример выделения контента для дальнейшей обработки
 <p align="center">
-    <img height="75" alt="demo segment" src="[https://hh.ru/employer-logo/4240021.png](https://github.com/ItsHimReally/BannerGuard/blob/main/notebooks/example_segment.jpg)">
+    <img height="75" alt="demo segment" src="https://github.com/ItsHimReally/BannerGuard/blob/main/notebooks/example_segment.jpg">
 </p>
