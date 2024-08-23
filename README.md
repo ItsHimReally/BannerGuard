@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="codd logo" src="https://gucodd.ru/tild6430-3464-4333-b263-613463326265__logo-codd.svg">
+    <img alt="codd logo" src="https://tmsearch.onlinepatent.ru/images/142/1427e2a5-9e22-4012-95aa-f38739c30f20.jpg">
 </p>
 
 <h3 align="center">
