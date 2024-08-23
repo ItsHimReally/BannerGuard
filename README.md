@@ -1,1 +1,30 @@
-# BannerGuard
+
+<p align="center">
+    <img height="75" alt="codd logo" src="https://hh.ru/employer-logo/4240021.png">
+</p>
+
+<h3 align="center">
+    Команда БЕЗУМЦЫ
+</h3>
+<p align="center">
+    Хакатон DriveHack
+</p> 
+
+<p align="center">
+    # BannerGuard
+</p> 
+
+## [Веб интерфейс](https://github.com/ItsHimReally/BannerGuard/tree/main/web)
+
+Веб-модуль обеспечивает пользовательский интерфейс для взаимодействия с системой
+
+## [Модели ИИ](https://github.com/ItsHimReally/BannerGuard/tree/main/models)
+Решения на основе компьютерного зрения, распознования текста и машиного обучения
+
+## [Код для обучения](https://github.com/ItsHimReally/BannerGuard/tree/main/notebooks)
+
+---------------------------------------
+Пример выделения контента для дальнейшей обработки
+<p align="center">
+    <img height="75" alt="demo segment" src="[https://hh.ru/employer-logo/4240021.png](https://github.com/ItsHimReally/BannerGuard/blob/main/notebooks/example_segment.jpg)">
+</p>
