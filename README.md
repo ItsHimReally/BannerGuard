@@ -1,5 +1,5 @@
 <p align="center">
-    <img height=150 alt="codd logo" src="https://gucodd.ru/tild6430-3464-4333-b263-613463326265__logo-codd.svg>
+    <img alt="codd logo" src="https://gucodd.ru/tild6430-3464-4333-b263-613463326265__logo-codd.svg">
 </p>
 
 <h3 align="center">
