@@ -10,9 +10,9 @@
     Хакатон DriveHack
 </p> 
 
-<p align="center">
-    # BannerGuard
-</p> 
+<h1 align="center">
+    BannerGuard
+</h1> 
 
 ## [Веб интерфейс](https://github.com/ItsHimReally/BannerGuard/tree/main/web)
 
