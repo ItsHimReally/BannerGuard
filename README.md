@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img alt="codd logo" src="https://hh.ru/employer-logo/4240021.png">
+    <img alt="codd logo" src="https://tipworker.com/img/cache/company/logo/114403/114403-middle.png">
 </p>
 
 <h3 align="center">
