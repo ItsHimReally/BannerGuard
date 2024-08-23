@@ -1,6 +1,5 @@
-
 <p align="center">
-    <img height=150 alt="codd logo" src="https://transport.mos.ru/common/upload/img/resize/sc_1063x583_images52_6fc49e79bbf9fedb892b6831b3c269cf.png">
+    <img height=150 alt="codd logo" src="https://gucodd.ru/tild6430-3464-4333-b263-613463326265__logo-codd.svg>
 </p>
 
 <h3 align="center">
