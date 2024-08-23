@@ -22,5 +22,5 @@
 ---------------------------------------
 Пример выделения контента для дальнейшей обработки
 <p align="center">
-    <img alt="demo segment" src="https://github.com/ItsHimReally/BannerGuard/blob/main/notebooks/example_segment.jpg">
+    <img height=500 alt="demo segment" src="https://github.com/ItsHimReally/BannerGuard/blob/main/notebooks/example_segment.jpg">
 </p>
