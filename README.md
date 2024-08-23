@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-    Команда БЕЗУМЦЫ | Хакатон DriveHack
+    Команда БЕЗУМЦЫ
 </h3>
 <h1 align="center">
     BannerGuard
