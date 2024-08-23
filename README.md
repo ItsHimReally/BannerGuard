@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img alt="codd logo" src="https://hh.ru/employer-logo/4240021.png">
+    <img height="75" alt="codd logo" src="https://hh.ru/employer-logo/4240021.png">
 </p>
 
 <h3 align="center">
